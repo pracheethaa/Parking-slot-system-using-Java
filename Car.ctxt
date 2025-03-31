@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=The\ Car\ class\ represents\ a\ car\ with\ a\ registration\ number,\ owner,\ and\ whether\r\n\ the\ owner\ is\ a\ staff\ member.\ This\ class\ provides\ methods\ to\ retrieve\ details\ about\ \r\n\ the\ car\ and\ a\ formatted\ string\ representation\ of\ the\ car's\ information.\r\n\ @author\:\ Balagopalapracheethaa\ Senthilkumar\r\n\ @date\:\ 07.09.2024\r\n\ @version\ 1.0\r\n
+comment1.params=carRegNumber\ carOwner\ isCarOwnedByStaff
+comment1.target=Car(java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getCarRegNumber()
+comment3.params=
+comment3.target=java.lang.String\ getCarOwner()
+comment4.params=
+comment4.target=boolean\ isCarOwnedByStaff()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

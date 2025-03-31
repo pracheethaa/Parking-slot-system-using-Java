@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CarPark
+comment1.params=
+comment1.target=CarPark()
+comment10.params=carRegNumber
+comment10.target=void\ removeCarFromParkingSlot(java.lang.String)
+comment11.params=
+comment11.target=void\ deleteAllUnoccupiedParkingSlots()
+comment2.params=
+comment2.target=java.util.ArrayList\ getParkingSlots()
+comment3.params=slotIdentifier
+comment3.target=ParkingSlot\ getParkingSlotByID(java.lang.String)
+comment4.params=slotIdentifier
+comment4.target=ParkingSlot\ findParkingSlot(java.lang.String)
+comment5.params=slotID
+comment5.target=boolean\ doesSlotExist(java.lang.String)
+comment6.params=parkingSlot
+comment6.target=void\ addParkingSlot(ParkingSlot)
+comment7.params=slotIdentifier
+comment7.target=void\ deleteParkingSlot(java.lang.String)
+comment8.params=
+comment8.target=void\ listAllParkingSlots()
+comment9.params=carRegNumber
+comment9.target=ParkingSlot\ findParkingSlotByCar(java.lang.String)
+numComments=12
